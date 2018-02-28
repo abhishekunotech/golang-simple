@@ -5,5 +5,5 @@ import(
 )
 
 func main(){
-	fmt.Println("Test Conditions are gonna work, but this is main")
+	fmt.Println("Testf Conditions are gonna work, but this is main")
 }
